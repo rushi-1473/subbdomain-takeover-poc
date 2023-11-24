@@ -1,3 +1,3 @@
 # subbdomain-takeover-poc
 
-##POC file for subdomain Takeover
+## POC file for subdomain Takeover
